@@ -3,3 +3,7 @@ emoji
 type option
 spell check
 colors
+
+
+dark mode
+comments
